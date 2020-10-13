@@ -18,7 +18,7 @@
         <versions.commandline>1.7.0</versions.commandline>
         <versions.hstreams>1.0.2</versions.hstreams>
         <!-- Test dependencies versions -->
-        <versions.junit>4.12</versions.junit>
+        <versions.junit>4.13.1</versions.junit>
         <versions.mockito>1.9.5</versions.mockito>
     </properties>
 
