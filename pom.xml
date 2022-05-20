@@ -12,7 +12,7 @@
         <versions.mvncompiler>3.3</versions.mvncompiler>
         <versions.mvnshade>2.4.3</versions.mvnshade>
         <!-- Dependencies versions -->
-        <versions.gson>2.5</versions.gson>
+        <versions.gson>2.8.9</versions.gson>
         <versions.h2>1.4.191</versions.h2>
         <versions.hibernate>5.0.7.Final</versions.hibernate>
         <versions.commandline>1.7.0</versions.commandline>
